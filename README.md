@@ -180,4 +180,3 @@ This project is for educational purposes as part of the Stacks Bootcamp.
 ---
 
 **⚠️ Important**: Always test on testnet before deploying to mainnet. Keep your mnemonics secure and never share them publicly.
-# stacks-token-management-system
